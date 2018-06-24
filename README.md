@@ -1,4 +1,3 @@
-# Headline
+# Gold Coast TechSpace Docs
 
-> hello world
-> hello world
+> Welcome!
