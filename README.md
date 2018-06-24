@@ -1,3 +1,3 @@
-# Headline
+# Gold Coast TechSpace Docs
 
-> James
+> Welcome!

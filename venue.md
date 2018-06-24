@@ -1,3 +1,0 @@
-# Venue
-
-> An awesome project.

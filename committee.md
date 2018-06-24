@@ -1,3 +1,0 @@
-# Committee
-
-> An awesome project.
